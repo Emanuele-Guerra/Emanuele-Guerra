@@ -1,0 +1,91 @@
+
+.primo{
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    
+}
+.secondo{
+    width: 800px;
+    margin: auto;
+    padding-top: 50px;
+}
+.terzo{
+    width: 800px;
+    margin: auto;
+    padding-top: 30px;
+    
+    
+}
+
+
+.logo{
+    width: 200px;
+    margin-top: 86px;
+}
+.scrittalogo{
+    font-family: 'Lato', sans-serif;
+    color: #08dc04;
+    font-size: 25px;
+    margin-top: 10px;
+}
+.pulsanti{
+    background-color: #08dc04;
+    width: 800px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: absolute;
+    top: 220px;
+}
+.loadingbars{
+   height: 25px;
+   border-radius: 5px;
+   
+
+
+}
+.textcolorfont{
+    font-family: 'Lato', sans-serif;
+    color: white;
+
+}
+.title{
+   font-size: 18px;
+   padding-top: 50px
+}
+
+
+
+
+.cream{
+    width: 300px;
+    background-color: rgb(255, 138, 96);
+}
+.green{
+    width: 450px;
+    background-color: rgb(39, 163, 11);
+}
+.darkred{
+    width: 150px;
+    background-color: crimson;
+}
+.mask{
+    width: 965px;
+    height: 690px;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 20px;
+    
+    background-color:rgba(0, 0, 0, 0.50)
+}
+  
+body{
+
+   background-image: url(background.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   
+}
+  
+
